@@ -9,7 +9,7 @@
 
 ## Build
 ```BASH
-# Change the website to your own domain.
+# The website parameter should point to your own domain.
 docker build -t ubuntu-cert --build-arg website=google.com .
 ```
 
