@@ -1,6 +1,6 @@
 <p align="center"><a href="https://orptech.com" target="_blank"><img src="https://orptech.com/assets/images/logos/orptech-logo-white.png" width="350"></a></p>
 
-## Prerequisite
+## Prerequisites
 * Docker
 * Internet Connection
 
