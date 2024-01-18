@@ -1,6 +1,6 @@
 <br />
 
-![ORPTech Logo](https://orptech.com/images/orptech-logo.png)
+![ORPtech Logo]([https://orptech.com/images/orptech-logo.png](https://orptech.com/assets/images/logos/orptech-logo-white.png))
 ---
 
 ## Prerequisite
@@ -8,6 +8,7 @@
 * Internet Connection
 
 ## Build
+
 ```BASH
 # The website parameter should point to your own domain.
 docker build -t ubuntu-cert --build-arg website=google.com .
@@ -20,4 +21,4 @@ docker run -it ubuntu-cert
 ```
 
 ## License
-MIT License. Please read LICENSE file for more details.
+MIT License. Please read the LICENSE file for more details.
