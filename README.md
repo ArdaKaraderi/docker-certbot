@@ -1,7 +1,4 @@
-<br />
-
-![ORPtech Logo]([https://orptech.com/images/orptech-logo.png](https://orptech.com/assets/images/logos/orptech-logo-white.png))
----
+<p align="center"><a href="https://orptech.com" target="_blank"><img src="https://orptech.com/assets/images/logos/orptech-logo-white.png" width="350"></a></p>
 
 ## Prerequisite
 * Docker
@@ -21,4 +18,4 @@ docker run -it ubuntu-cert
 ```
 
 ## License
-MIT License. Please read the LICENSE file for more details.
+MIT License.
